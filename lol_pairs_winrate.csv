@@ -1,0 +1,1601 @@
+"('Renekton', 'Xin Zhao')",0.3181818181818182
+"('LeBlanc', 'Renekton')",0.25925925925925924
+"('Leona', 'Renekton')",0.37681159420289856
+"('LeBlanc', 'Xin Zhao')",0.4177215189873418
+"('Leona', 'Xin Zhao')",0.4591194968553459
+"('LeBlanc', 'Leona')",0.5121951219512195
+"('Gragas', 'Viego')",0.41964285714285715
+"('Gragas', 'Viktor')",0.42857142857142855
+"('Gragas', 'Jinx')",0.37777777777777777
+"('Viego', 'Viktor')",0.4628099173553719
+"('Jinx', 'Viego')",0.48214285714285715
+"('Alistar', 'Viego')",0.4745762711864407
+"('Jinx', 'Viktor')",0.5136612021857924
+"('Alistar', 'Viktor')",0.38095238095238093
+"('Alistar', 'Jinx')",0.49230769230769234
+"('Gragas', 'Lee Sin')",0.4827586206896552
+"('Gragas', 'Orianna')",0.5357142857142857
+"('Gragas', 'Jhin')",0.5185185185185185
+"('Gragas', 'Rakan')",0.3076923076923077
+"('Lee Sin', 'Orianna')",0.48148148148148145
+"('Jhin', 'Lee Sin')",0.4246575342465753
+"('Lee Sin', 'Rakan')",0.494949494949495
+"('Jhin', 'Orianna')",0.2222222222222222
+"('Orianna', 'Rakan')",0.4117647058823529
+"('Jhin', 'Rakan')",0.4358974358974359
+"('Gangplank', 'Syndra')",0.631578947368421
+"('Gangplank', 'Leona')",0.5882352941176471
+"('Nidalee', 'Renekton')",0.37142857142857144
+"('Leona', 'Nidalee')",0.4117647058823529
+"('Renekton', 'Syndra')",0.43478260869565216
+"('Leona', 'Syndra')",0.5609756097560976
+"('Gwen', 'Jarvan IV')",0.5211267605633803
+"('Gwen', 'Syndra')",0.55
+"('Gwen', 'Jinx')",0.5801886792452831
+"('Gwen', 'Nautilus')",0.5067873303167421
+"('Jarvan IV', 'Syndra')",0.391304347826087
+"('Jarvan IV', 'Jinx')",0.4789915966386555
+"('Jarvan IV', 'Nautilus')",0.4305555555555556
+"('Jinx', 'Syndra')",0.4444444444444444
+"('Nautilus', 'Syndra')",0.41975308641975306
+"('Jinx', 'Nautilus')",0.5147058823529411
+"('Jax', 'Xin Zhao')",0.5172413793103449
+"('Aphelios', 'Jax')",0.42028985507246375
+"('Jax', 'Thresh')",0.4375
+"('Vex', 'Xin Zhao')",0.49206349206349204
+"('Aphelios', 'Xin Zhao')",0.4349442379182156
+"('Thresh', 'Xin Zhao')",0.5061728395061729
+"('Aphelios', 'Vex')",0.45161290322580644
+"('Thresh', 'Vex')",0.5
+"('Aphelios', 'Thresh')",0.5061728395061729
+"('Aphelios', 'Renekton')",0.46153846153846156
+"('Renekton', 'Yuumi')",0.48484848484848486
+"('Aphelios', 'Zoe')",0.5116279069767442
+"('Graves', 'Xin Zhao')",0.4157303370786517
+"('Graves', 'Viktor')",0.45569620253164556
+"('Graves', 'Jhin')",0.4
+"('Graves', 'Leona')",0.5
+"('Viktor', 'Xin Zhao')",0.49624060150375937
+"('Jhin', 'Xin Zhao')",0.5
+"('Jhin', 'Viktor')",0.4696969696969697
+"('Leona', 'Viktor')",0.43859649122807015
+"('Jhin', 'Leona')",0.38144329896907214
+"('Corki', 'Xin Zhao')",0.4857142857142857
+"('Jinx', 'Xin Zhao')",0.5454545454545454
+"('Rakan', 'Xin Zhao')",0.53125
+"('Corki', 'Jinx')",0.5
+"('Corki', 'Rakan')",0.5
+"('Jinx', 'Rakan')",0.5126050420168067
+"('Gangplank', 'Lee Sin')",0.47368421052631576
+"('Lee Sin', 'Twisted Fate')",0.52
+"('Lee Sin', 'Leona')",0.5175879396984925
+"('Leona', 'Twisted Fate')",0.6052631578947368
+"('Leona', 'Ziggs')",0.41025641025641024
+"('Gragas', 'Jarvan IV')",0.4186046511627907
+"('Gragas', 'Vex')",0.11764705882352941
+"('Caitlyn', 'Gragas')",0.5333333333333333
+"('Gragas', 'Lux')",0.8235294117647058
+"('Jarvan IV', 'Vex')",0.34615384615384615
+"('Caitlyn', 'Jarvan IV')",0.5
+"('Jarvan IV', 'Lux')",0.5483870967741935
+"('Caitlyn', 'Lux')",0.5664335664335665
+"('Akali', 'Yone')",0.5294117647058824
+"('Akali', 'Xin Zhao')",0.5555555555555556
+"('Akali', 'Jhin')",0.4074074074074074
+"('Graves', 'Viego')",0.4931506849315068
+"('Corki', 'Graves')",0.4878048780487805
+"('Graves', 'Jinx')",0.4742857142857143
+"('Graves', 'Thresh')",0.5
+"('Corki', 'Viego')",0.5862068965517241
+"('Thresh', 'Viego')",0.5
+"('Corki', 'Thresh')",0.6304347826086957
+"('Jinx', 'Thresh')",0.527027027027027
+"('Jayce', 'Xin Zhao')",0.5822784810126582
+"('Jayce', 'Viktor')",0.5
+"('Jayce', 'Jhin')",0.43243243243243246
+"('Sett', 'Xin Zhao')",0.6818181818181818
+"('Sett', 'Viktor')",0.42857142857142855
+"('Graves', 'Twisted Fate')",0.4857142857142857
+"('Caitlyn', 'Graves')",0.5641025641025641
+"('Graves', 'Lux')",0.5217391304347826
+"('Twisted Fate', 'Xin Zhao')",0.68
+"('Caitlyn', 'Xin Zhao')",0.4782608695652174
+"('Lux', 'Xin Zhao')",0.45454545454545453
+"('Caitlyn', 'Twisted Fate')",0.5294117647058824
+"('Gwen', 'Viego')",0.5161290322580645
+"('Gwen', 'Sylas')",0.5662650602409639
+"('Aphelios', 'Gwen')",0.4980392156862745
+"('Gwen', 'Leona')",0.5679012345679012
+"('Sylas', 'Viego')",0.6033057851239669
+"('Aphelios', 'Viego')",0.4740061162079511
+"('Leona', 'Viego')",0.4644808743169399
+"('Aphelios', 'Sylas')",0.5594405594405595
+"('Leona', 'Sylas')",0.5
+"('Aphelios', 'Leona')",0.4977973568281938
+"('Gwen', 'Viktor')",0.5052631578947369
+"('Caitlyn', 'Gwen')",0.46875
+"('Gwen', 'Lux')",0.42857142857142855
+"('Caitlyn', 'Viego')",0.4
+"('Caitlyn', 'Viktor')",0.6052631578947368
+"('Lux', 'Viktor')",0.6153846153846154
+"('Xin Zhao', 'Zoe')",0.38461538461538464
+"('Karma', 'Xin Zhao')",0.3698630136986301
+"('Jhin', 'Zoe')",0.5333333333333333
+"('Karma', 'Zoe')",0.5789473684210527
+"('Jhin', 'Karma')",0.4
+"('Gwen', 'Thresh')",0.5692307692307692
+"('Jarvan IV', 'Thresh')",0.5866666666666667
+"('Syndra', 'Thresh')",0.5
+"('Jayce', 'Lee Sin')",0.6176470588235294
+"('Corki', 'Jayce')",0.5454545454545454
+"('Aphelios', 'Jayce')",0.5196078431372549
+"('Jayce', 'Lulu')",0.625
+"('Corki', 'Lee Sin')",0.5
+"('Aphelios', 'Lee Sin')",0.483271375464684
+"('Lee Sin', 'Lulu')",0.5084745762711864
+"('Aphelios', 'Corki')",0.5271317829457365
+"('Corki', 'Lulu')",0.42857142857142855
+"('Aphelios', 'Lulu')",0.42777777777777776
+"('Caitlyn', 'Corki')",0.42105263157894735
+"('Hecarim', 'Seraphine')",0.47058823529411764
+"('Hecarim', 'Jinx')",0.54
+"('Braum', 'Hecarim')",0.4666666666666667
+"('Braum', 'Jinx')",0.43478260869565216
+"('Akshan', 'Aphelios')",0.6666666666666666
+"('Jarvan IV', 'Viktor')",0.5631067961165048
+"('Aphelios', 'Jarvan IV')",0.4892086330935252
+"('Aphelios', 'Viktor')",0.4263959390862944
+"('Thresh', 'Viktor')",0.5737704918032787
+"('Ornn', 'Viego')",0.46
+"('Ornn', 'Syndra')",0.3888888888888889
+"('Jinx', 'Ornn')",0.4519230769230769
+"('Braum', 'Ornn')",0.18181818181818182
+"('Syndra', 'Viego')",0.3269230769230769
+"('Braum', 'Viego')",0.37662337662337664
+"('Hecarim', 'Orianna')",0.46875
+"('Caitlyn', 'Orianna')",0.4444444444444444
+"('Gnar', 'Lee Sin')",0.46296296296296297
+"('Gnar', 'Viktor')",0.3490566037735849
+"('Gnar', 'Jhin')",0.34375
+"('Gnar', 'Karma')",0.3181818181818182
+"('Lee Sin', 'Viktor')",0.5526315789473685
+"('Karma', 'Lee Sin')",0.3548387096774194
+"('Karma', 'Viktor')",0.4262295081967213
+"('Corki', 'Hecarim')",0.47619047619047616
+"('Karma', 'Ornn')",0.3125
+"('Karma', 'Syndra')",0.34782608695652173
+"('Gwen', 'Xin Zhao')",0.5
+"('Syndra', 'Xin Zhao')",0.4576271186440678
+"('Caitlyn', 'Syndra')",0.5
+"('Camille', 'Lee Sin')",0.47435897435897434
+"('Camille', 'Corki')",0.4583333333333333
+"('Camille', 'Jhin')",0.7037037037037037
+"('Camille', 'Nautilus')",0.4479166666666667
+"('Lee Sin', 'Nautilus')",0.5020746887966805
+"('Corki', 'Jhin')",0.4878048780487805
+"('Corki', 'Nautilus')",0.4666666666666667
+"('Jhin', 'Nautilus')",0.5352112676056338
+"('Gangplank', 'Xin Zhao')",0.6764705882352942
+"('Gangplank', 'Senna')",0.6530612244897959
+"('Gangplank', 'Nautilus')",0.4842105263157895
+"('Senna', 'Xin Zhao')",0.5
+"('Nautilus', 'Xin Zhao')",0.5
+"('Graves', 'Trundle')",0.4642857142857143
+"('Graves', 'Vex')",0.4
+"('Graves', 'Lulu')",0.5
+"('Trundle', 'Vex')",0.42105263157894735
+"('Jinx', 'Trundle')",0.4823529411764706
+"('Lulu', 'Trundle')",0.35
+"('Jinx', 'Vex')",0.5428571428571428
+"('Jinx', 'Lulu')",0.4418604651162791
+"('Jhin', 'Trundle')",0.35294117647058826
+"('Leona', 'Trundle')",0.47368421052631576
+"('Diana', 'Gwen')",0.3333333333333333
+"('Gwen', 'Yone')",0.46153846153846156
+"('Gwen', 'Rakan')",0.5813953488372093
+"('Diana', 'Yone')",0.6111111111111112
+"('Diana', 'Jinx')",0.6136363636363636
+"('Diana', 'Rakan')",0.6470588235294118
+"('Jinx', 'Yone')",0.5925925925925926
+"('Rakan', 'Yone')",0.4375
+"('Ornn', 'Xin Zhao')",0.5818181818181818
+"('Lulu', 'Ornn')",0.4067796610169492
+"('Lulu', 'Xin Zhao')",0.5056179775280899
+"('Jayce', 'Syndra')",0.72
+"('Caitlyn', 'Jayce')",0.6
+"('Jayce', 'Karma')",0.4642857142857143
+"('Caitlyn', 'Karma')",0.42857142857142855
+"('Camille', 'Viktor')",0.6451612903225806
+"('Camille', 'Leona')",0.4915254237288136
+"('Camille', 'Syndra')",0.42857142857142855
+"('Aphelios', 'Camille')",0.4268292682926829
+"('Camille', 'Thresh')",0.5
+"('Lee Sin', 'Syndra')",0.5223880597014925
+"('Lee Sin', 'Thresh')",0.4883720930232558
+"('Aphelios', 'Syndra')",0.4647887323943662
+"('Gangplank', 'Viktor')",0.4146341463414634
+"('Gangplank', 'Lucian')",0.5277777777777778
+"('Braum', 'Gangplank')",0.5
+"('Lucian', 'Viktor')",0.5806451612903226
+"('Braum', 'Viktor')",0.4888888888888889
+"('Aatrox', 'Viego')",0.3877551020408163
+"('Aatrox', 'Corki')",0.5
+"('Aatrox', 'Aphelios')",0.5081967213114754
+"('Aatrox', 'Thresh')",0.5294117647058824
+"('Camille', 'Xin Zhao')",0.5454545454545454
+"('Camille', 'Ryze')",0.56
+"('Camille', 'Jinx')",0.4811320754716981
+"('Camille', 'Lulu')",0.5384615384615384
+"('Ryze', 'Xin Zhao')",0.4380952380952381
+"('Jinx', 'Ryze')",0.48947368421052634
+"('Lulu', 'Ryze')",0.45
+"('Jayce', 'Viego')",0.5223880597014925
+"('Jayce', 'Thresh')",0.41304347826086957
+"('Lee Sin', 'Tahm Kench')",0.5925925925925926
+"('LeBlanc', 'Tahm Kench')",0.5217391304347826
+"('Aphelios', 'Tahm Kench')",0.5072463768115942
+"('LeBlanc', 'Lee Sin')",0.44776119402985076
+"('Aphelios', 'LeBlanc')",0.4672131147540984
+"('LeBlanc', 'Thresh')",0.5625
+"('Poppy', 'Viktor')",0.4117647058823529
+"('Karma', 'Poppy')",0.5238095238095238
+"('Hecarim', 'Syndra')",0.5483870967741935
+"('Hecarim', 'Nautilus')",0.46017699115044247
+"('Hecarim', 'Tahm Kench')",0.5263157894736842
+"('Syndra', 'Tahm Kench')",0.5
+"('Jinx', 'Tahm Kench')",0.5573248407643312
+"('Hecarim', 'Rakan')",0.5294117647058824
+"('Rakan', 'Syndra')",0.6
+"('Lee Sin', 'Sylas')",0.4
+"('Caitlyn', 'Lee Sin')",0.5510204081632653
+"('Karma', 'Sylas')",0.5555555555555556
+"('Caitlyn', 'Poppy')",0.5263157894736842
+"('Nautilus', 'Poppy')",0.5
+"('Hecarim', 'Vex')",0.6111111111111112
+"('Nautilus', 'Vex')",0.4752475247524752
+"('Caitlyn', 'Nautilus')",0.47058823529411764
+"('Jayce', 'Tahm Kench')",0.6086956521739131
+"('Jhin', 'Tahm Kench')",0.5454545454545454
+"('Seraphine', 'Tahm Kench')",0.26666666666666666
+"('Lee Sin', 'Ornn')",0.48
+"('Aphelios', 'Ornn')",0.5591397849462365
+"('Ornn', 'Thresh')",0.3870967741935484
+"('Jayce', 'Nautilus')",0.4766355140186916
+"('Nautilus', 'Viktor')",0.5328947368421053
+"('Tahm Kench', 'Viktor')",0.5432098765432098
+"('Jinx', 'Lee Sin')",0.5287769784172662
+"('Corki', 'Jarvan IV')",0.48717948717948717
+"('Jarvan IV', 'Rakan')",0.5
+"('Ornn', 'Ryze')",0.5925925925925926
+"('Nautilus', 'Ornn')",0.5405405405405406
+"('Lee Sin', 'Ryze')",0.4744525547445255
+"('Nautilus', 'Ryze')",0.373134328358209
+"('Gangplank', 'Hecarim')",0.6666666666666666
+"('Aphelios', 'Gangplank')",0.55
+"('Aphelios', 'Hecarim')",0.5254237288135594
+"('Aphelios', 'Nautilus')",0.4506024096385542
+"('Azir', 'Graves')",0.4444444444444444
+"('Braum', 'Graves')",0.43243243243243246
+"('Azir', 'Xin Zhao')",0.5194805194805194
+"('Braum', 'Xin Zhao')",0.5714285714285714
+"('Azir', 'Jinx')",0.5180722891566265
+"('Azir', 'Braum')",0.4146341463414634
+"('Ezreal', 'Xin Zhao')",0.4225352112676056
+"('Ezreal', 'Viktor')",0.45098039215686275
+"('Braum', 'Ezreal')",0.4406779661016949
+"('Gwen', 'Lee Sin')",0.4906832298136646
+"('Gwen', 'Jhin')",0.4935064935064935
+"('Irelia', 'Lee Sin')",0.6818181818181818
+"('Irelia', 'Rakan')",0.4666666666666667
+"('Hecarim', 'Renekton')",0.5
+"('Caitlyn', 'Renekton')",0.35
+"('Fiora', 'Jinx')",0.6190476190476191
+"('Galio', 'Jinx')",0.4482758620689655
+"('Camille', 'Hecarim')",0.42424242424242425
+"('Hecarim', 'Lulu')",0.5625
+"('Lulu', 'Viktor')",0.4423076923076923
+"('Hecarim', 'Viktor')",0.5370370370370371
+"('Malphite', 'Viego')",0.47368421052631576
+"('Vex', 'Viego')",0.5
+"('Graves', 'Karma')",0.38461538461538464
+"('Trundle', 'Viktor')",0.48333333333333334
+"('Karma', 'Trundle')",0.30303030303030304
+"('Jinx', 'Karma')",0.3783783783783784
+"('Aatrox', 'Hecarim')",0.3684210526315789
+"('Aatrox', 'Lulu')",0.4444444444444444
+"('Gwen', 'Hecarim')",0.6271186440677966
+"('Gwen', 'Lulu')",0.46153846153846156
+"('Aphelios', 'Irelia')",0.5142857142857142
+"('Jax', 'Viktor')",0.72
+"('Ezreal', 'Graves')",0.5208333333333334
+"('Jinx', 'Malphite')",0.4583333333333333
+"('Hecarim', 'Thresh')",0.5151515151515151
+"('Jinx', 'Orianna')",0.5042735042735043
+"('Orianna', 'Thresh')",0.5283018867924528
+"('Corki', 'Leona')",0.5555555555555556
+"('Gwen', 'Ryze')",0.3958333333333333
+"('Gwen', 'Karma')",0.46153846153846156
+"('Jhin', 'Ryze')",0.36363636363636365
+"('Karma', 'Ryze')",0.425
+"('Aatrox', 'Jinx')",0.5370370370370371
+"('Hecarim', 'Karma')",0.5555555555555556
+"('Akali', 'Aphelios')",0.452991452991453
+"('Akali', 'Lulu')",0.37777777777777777
+"('Aphelios', 'Sett')",0.6666666666666666
+"('Lee Sin', 'Renekton')",0.45454545454545453
+"('Jinx', 'Renekton')",0.5342465753424658
+"('Karma', 'Renekton')",0.3
+"('Jinx', 'LeBlanc')",0.5283018867924528
+"('Karma', 'LeBlanc')",0.25925925925925924
+"('Galio', 'Graves')",0.45161290322580644
+"('Galio', 'Lulu')",0.5
+"('Jayce', 'Ziggs')",0.375
+"('Jayce', 'Leona')",0.5283018867924528
+"('Braum', 'Camille')",0.4375
+"('Braum', 'Lee Sin')",0.4888888888888889
+"('Aphelios', 'Braum')",0.43010752688172044
+"('Gwen', ""Rek'Sai"")",0.5
+"('Jinx', ""Rek'Sai"")",0.48148148148148145
+"('Leona', ""Rek'Sai"")",0.5333333333333333
+"('Jinx', 'Leona')",0.5406698564593302
+"('Graves', 'Lucian')",0.7777777777777778
+"('Lucian', 'Xin Zhao')",0.4838709677419355
+"('Lucian', 'Twisted Fate')",0.4375
+"('Diana', 'Tryndamere')",0.5172413793103449
+"('Jhin', 'Tryndamere')",0.4482758620689655
+"('Rakan', 'Tryndamere')",0.4642857142857143
+"('Diana', 'Yasuo')",0.463768115942029
+"('Diana', 'Jhin')",0.32142857142857145
+"('Jayce', 'Zoe')",0.3888888888888889
+"('Jayce', ""Kai'Sa"")",0.5161290322580645
+"('Jayce', 'Rakan')",0.575
+"(""Kai'Sa"", 'Xin Zhao')",0.38461538461538464
+"('Rakan', 'Zoe')",0.2631578947368421
+"(""Kai'Sa"", 'Rakan')",0.6571428571428571
+"('Leona', 'Ryze')",0.45161290322580644
+"('Gragas', 'Zoe')",0.5333333333333333
+"('Gragas', 'Yasuo')",0.4117647058823529
+"('Lee Sin', 'Zoe')",0.4883720930232558
+"('Aatrox', 'Akali')",0.5454545454545454
+"('Aatrox', 'Leona')",0.5357142857142857
+"('Akali', 'Viego')",0.5135135135135135
+"('Jhin', 'Viego')",0.4461538461538462
+"('Akali', 'Leona')",0.5176470588235295
+"('Kennen', 'Xin Zhao')",0.42857142857142855
+"('Kennen', 'Leona')",0.45714285714285713
+"('Leona', 'Zoe')",0.3793103448275862
+"('Lee Sin', 'Vex')",0.55
+"('Jhin', 'Vex')",0.47619047619047616
+"('Rakan', 'Viktor')",0.4375
+"('Gnar', 'Xin Zhao')",0.3983050847457627
+"('Gnar', 'Syndra')",0.5483870967741935
+"('Aphelios', 'Gnar')",0.4795539033457249
+"('Gnar', 'Lulu')",0.5064935064935064
+"('Lulu', 'Syndra')",0.35
+"('Akali', 'Viktor')",0.6842105263157895
+"('Akali', 'Jinx')",0.5583333333333333
+"('Akali', 'Braum')",0.5769230769230769
+"('Camille', 'LeBlanc')",0.37037037037037035
+"('Diana', 'Renekton')",0.5178571428571429
+"('Jhin', 'Renekton')",0.24
+"('Jhin', 'Yuumi')",0.32432432432432434
+"('Gwen', 'Olaf')",0.55
+"('Aphelios', 'Olaf')",0.5909090909090909
+"('Aphelios', 'Ryze')",0.4207650273224044
+"('Ryze', 'Thresh')",0.46551724137931033
+"('Jayce', 'Ryze')",0.42168674698795183
+"('Jinx', 'Kennen')",0.5079365079365079
+"('Kennen', 'Lulu')",0.2727272727272727
+"('Jinx', 'Olaf')",0.5
+"('Lulu', 'Olaf')",0.5333333333333333
+"('Lulu', 'Orianna')",0.53125
+"('Kennen', 'Viktor')",0.3181818181818182
+"('Kennen', 'Nautilus')",0.5
+"('Camille', 'Graves')",0.55
+"('Akali', 'Camille')",0.4
+"('Akali', 'Graves')",0.5384615384615384
+"('Aphelios', 'Graves')",0.46511627906976744
+"('Akali', 'Thresh')",0.5454545454545454
+"('Diana', 'Nautilus')",0.49019607843137253
+"('Nautilus', 'Yasuo')",0.5263157894736842
+"('Camille', 'Jarvan IV')",0.5652173913043478
+"('Camille', 'Twisted Fate')",0.6666666666666666
+"('Jarvan IV', 'Twisted Fate')",0.6
+"('Jarvan IV', 'Lulu')",0.38095238095238093
+"('Jinx', 'Twisted Fate')",0.6091954022988506
+"('Fiora', 'Xin Zhao')",0.5789473684210527
+"('Corki', 'Fiora')",0.5882352941176471
+"('Aphelios', 'Fiora')",0.5333333333333333
+"('Fiora', 'Nautilus')",0.4594594594594595
+"('Hecarim', ""Kai'Sa"")",0.4888888888888889
+"('Ornn', 'Trundle')",0.4426229508196721
+"('Corki', 'Ornn')",0.5333333333333333
+"('Corki', 'Trundle')",0.45454545454545453
+"('Thresh', 'Trundle')",0.4375
+"('Jarvan IV', 'Jayce')",0.4722222222222222
+"('Jayce', 'Orianna')",0.5769230769230769
+"('Jarvan IV', 'Orianna')",0.5
+"('Aphelios', 'Orianna')",0.5045045045045045
+"('Aphelios', 'Blitzcrank')",0.6875
+"('Sion', 'Viktor')",0.3333333333333333
+"('Olaf', 'Viktor')",0.6470588235294118
+"('Jarvan IV', 'Ornn')",0.59375
+"('Leona', 'Ornn')",0.4444444444444444
+"('Jarvan IV', 'Leona')",0.6071428571428571
+"('Gnar', 'LeBlanc')",0.5394736842105263
+"('LeBlanc', 'Lulu')",0.41935483870967744
+"('Azir', 'Jayce')",0.5416666666666666
+"('Jayce', 'Jinx')",0.5306122448979592
+"('Viktor', 'Wukong')",0.5
+"('Aphelios', 'Wukong')",0.5649717514124294
+"('Lulu', 'Wukong')",0.48314606741573035
+"('Aatrox', 'Lee Sin')",0.41304347826086957
+"('Aatrox', 'LeBlanc')",0.32142857142857145
+"('Lee Sin', 'Sett')",0.7777777777777778
+"('Sejuani', 'Yone')",0.4166666666666667
+"('Sejuani', 'Seraphine')",0.5333333333333333
+"('Jinx', 'Udyr')",0.42857142857142855
+"('Sylas', 'Xin Zhao')",0.5490196078431373
+"('Jhin', 'Sylas')",0.47368421052631576
+"('Jax', 'Sylas')",0.4666666666666667
+"('Jax', 'Leona')",0.4166666666666667
+"('Akali', 'Jarvan IV')",0.4358974358974359
+"('Akali', 'Karma')",0.3125
+"('Jarvan IV', 'Karma')",0.5294117647058824
+"('Karma', 'Twisted Fate')",0.4666666666666667
+"('Gragas', 'Sylas')",0.5833333333333334
+"('Gragas', 'Lulu')",0.40816326530612246
+"('Lulu', 'Sylas')",0.4098360655737705
+"('Graves', 'Tahm Kench')",0.5066666666666667
+"('Corki', 'Tahm Kench')",0.5393258426966292
+"('Xin Zhao', 'Zilean')",0.7058823529411765
+"('Jinx', 'Zilean')",0.5555555555555556
+"('Caitlyn', 'Gnar')",0.46153846153846156
+"('Lee Sin', 'Lux')",0.7083333333333334
+"('Ezreal', 'Syndra')",0.4444444444444444
+"('Ezreal', 'Karma')",0.4900990099009901
+"('Corki', 'Renekton')",0.5161290322580645
+"('Gangplank', 'Jinx')",0.5875
+"('Azir', 'Lulu')",0.5373134328358209
+"('Sejuani', 'Xin Zhao')",0.4
+"('Gnar', 'Jinx')",0.46226415094339623
+"('Ornn', 'Viktor')",0.5573770491803278
+"('Irelia', 'Viego')",0.4090909090909091
+"('Irelia', 'Leona')",0.6785714285714286
+"('Akali', 'Gangplank')",0.35
+"('Akali', 'Senna')",0.5652173913043478
+"('Leona', 'Vex')",0.5
+"('Thresh', 'Twisted Fate')",0.42105263157894735
+"('Malphite', 'Viktor')",0.6875
+"('Gwen', 'Trundle')",0.4533333333333333
+"('Jayce', 'Poppy')",0.5
+"('Poppy', 'Veigar')",0.4666666666666667
+"('Gwen', 'Orianna')",0.5084745762711864
+"('Orianna', 'Xin Zhao')",0.44776119402985076
+"('Gangplank', 'Karma')",0.5
+"('Jarvan IV', 'Renekton')",0.425
+"('Jayce', 'LeBlanc')",0.5555555555555556
+"('Seraphine', 'Xin Zhao')",0.42857142857142855
+"('LeBlanc', 'Nautilus')",0.4948453608247423
+"('Nautilus', 'Seraphine')",0.4375
+"('Tahm Kench', 'Xin Zhao')",0.46875
+"('Tahm Kench', 'Vex')",0.48148148148148145
+"('Ashe', 'Lee Sin')",0.375
+"('Lulu', 'Yone')",0.3684210526315789
+"('Hecarim', 'Zilean')",0.47058823529411764
+"('Aphelios', 'Zilean')",0.4
+"('Hecarim', 'Tryndamere')",0.4666666666666667
+"('Leona', 'Tryndamere')",0.5714285714285714
+"('Hecarim', 'Jhin')",0.42857142857142855
+"('Hecarim', 'Leona')",0.5
+"('Camille', 'Diana')",0.5
+"('Jax', 'Viego')",0.5185185185185185
+"('Corki', 'Jax')",0.6
+"('Jax', 'Senna')",0.631578947368421
+"('Senna', 'Viego')",0.4691358024691358
+"('Corki', 'Senna')",0.48214285714285715
+"('Aatrox', 'Trundle')",0.4594594594594595
+"('Aatrox', 'Viktor')",0.7407407407407407
+"('Aphelios', 'Trundle')",0.5138888888888888
+"('Jinx', 'Sett')",0.6857142857142857
+"('Camille', 'Viego')",0.5277777777777778
+"('Camille', 'Galio')",0.4691358024691358
+"('Camille', 'Rakan')",0.5806451612903226
+"('Galio', 'Viego')",0.5192307692307693
+"('Rakan', 'Viego')",0.5384615384615384
+"('Galio', 'Rakan')",0.5925925925925926
+"('Diana', 'Leona')",0.46875
+"('Ezreal', 'Leona')",0.47368421052631576
+"('Twisted Fate', 'Viego')",0.4647887323943662
+"('Rell', 'Viego')",0.34782608695652173
+"('Jhin', 'Twisted Fate')",0.6111111111111112
+"('Ezreal', 'Jayce')",0.46153846153846156
+"('Galio', 'Xin Zhao')",0.6388888888888888
+"('Ezreal', 'Galio')",0.2222222222222222
+"('Ezreal', 'Rakan')",0.40350877192982454
+"('Gwen', 'Yasuo')",0.25
+"('Gwen', 'Senna')",0.42
+"('Diana', 'Senna')",0.5
+"('Senna', 'Yasuo')",0.5
+"('Lee Sin', 'Senna')",0.6271186440677966
+"('Gangplank', 'Graves')",0.5652173913043478
+"('Gangplank', 'Rakan')",0.6097560975609756
+"('Graves', 'Rakan')",0.5208333333333334
+"('Rakan', 'Renekton')",0.5405405405405406
+"('Graves', 'Syndra')",0.5116279069767442
+"('Jhin', 'Syndra')",0.2916666666666667
+"('Ornn', 'Vex')",0.37037037037037035
+"('Renekton', 'Senna')",0.45
+"('Orianna', 'Ornn')",0.42424242424242425
+"('LeBlanc', 'Trundle')",0.4634146341463415
+"('Jhin', 'LeBlanc')",0.5217391304347826
+"('Jhin', 'Ornn')",0.3125
+"('Ryze', 'Viego')",0.3669724770642202
+"('Braum', 'Ryze')",0.44
+"('Renekton', 'Viego')",0.4583333333333333
+"('Nautilus', 'Renekton')",0.4772727272727273
+"('Karma', 'Viego')",0.4262295081967213
+"('Nautilus', 'Viego')",0.4716981132075472
+"('Renekton', 'Vex')",0.4666666666666667
+"('Taliyah', 'Trundle')",0.55
+"('Gragas', 'Trundle')",0.5142857142857142
+"('Gragas', 'Taliyah')",0.625
+"('Ezreal', 'Gwen')",0.43
+"('Ezreal', 'Lee Sin')",0.4473684210526316
+"('Ezreal', 'Sylas')",0.5
+"('Corki', 'Gwen')",0.4626865671641791
+"('Kennen', 'Vex')",0.4666666666666667
+"('Kennen', 'Thresh')",0.5714285714285714
+"('Akali', 'Lee Sin')",0.5057471264367817
+"('Galio', 'Lee Sin')",0.5714285714285714
+"('Irelia', 'Xin Zhao')",0.5882352941176471
+"('Karma', 'Orianna')",0.25
+"('Jarvan IV', 'LeBlanc')",0.4117647058823529
+"('Galio', 'Jarvan IV')",0.3333333333333333
+"('Aphelios', 'Galio')",0.5098039215686274
+"('Sett', 'Viego')",0.42424242424242425
+"('Diana', 'Tahm Kench')",0.6206896551724138
+"('Ezreal', 'Tahm Kench')",0.36363636363636365
+"('Gragas', 'Syndra')",0.42857142857142855
+"('Aphelios', 'Gragas')",0.44755244755244755
+"('Gragas', 'Thresh')",0.42105263157894735
+"('Xayah', 'Xin Zhao')",0.3181818181818182
+"('Corki', 'Xayah')",0.4230769230769231
+"('Lee Sin', 'Veigar')",0.35294117647058826
+"('Graves', 'Ryze')",0.51
+"('Tryndamere', 'Xin Zhao')",0.4897959183673469
+"('Syndra', 'Tryndamere')",0.36363636363636365
+"('Tryndamere', 'Yuumi')",0.3333333333333333
+"('Xin Zhao', 'Yuumi')",0.4492753623188406
+"('Graves', 'Jarvan IV')",0.5625
+"('Jarvan IV', 'Ryze')",0.39215686274509803
+"('Akali', 'Tryndamere')",0.6
+"('Ezreal', 'Tryndamere')",0.6666666666666666
+"('Akali', 'Ezreal')",0.2413793103448276
+"('Kennen', 'Lee Sin')",0.5365853658536586
+"('Ezreal', 'Gragas')",0.40540540540540543
+"('Gragas', 'Karma')",0.38235294117647056
+"('Jarvan IV', 'Zoe')",0.625
+"('Ezreal', 'Jarvan IV')",0.4642857142857143
+"('Ezreal', 'Zoe')",0.41935483870967744
+"('Gwen', 'Tryndamere')",0.4444444444444444
+"('Tryndamere', 'Viego')",0.4339622641509434
+"('Nautilus', 'Tryndamere')",0.45714285714285713
+"(""Kai'Sa"", 'Lee Sin')",0.5
+"('Corki', ""Kai'Sa"")",0.5555555555555556
+"(""Kai'Sa"", 'Leona')",0.5535714285714286
+"('Corki', 'Kennen')",0.4
+"('Graves', 'Lee Sin')",0.5595238095238095
+"('Graves', 'Yuumi')",0.3333333333333333
+"('Lee Sin', 'Yuumi')",0.48717948717948717
+"('Corki', 'Udyr')",0.29411764705882354
+"('Fiora', 'Viktor')",0.5238095238095238
+"('Jayce', 'Twisted Fate')",0.5833333333333334
+"('Tryndamere', 'Vex')",0.5652173913043478
+"('Karma', 'Tryndamere')",0.7333333333333333
+"('Jarvan IV', 'Jhin')",0.5714285714285714
+"('Renekton', 'Viktor')",0.3469387755102041
+"('Renekton', 'Thresh')",0.4827586206896552
+"('Nautilus', 'Sett')",0.6
+"('Corki', 'Ezreal')",0.4716981132075472
+"('Corki', 'Karma')",0.45454545454545453
+"('Graves', 'Sett')",0.5
+"('Graves', 'Nautilus')",0.39644970414201186
+"('Azir', 'Poppy')",0.5063291139240507
+"('Jinx', 'Poppy')",0.4722222222222222
+"('Leona', 'Poppy')",0.65
+"('Azir', 'Viego')",0.44881889763779526
+"('Azir', 'Leona')",0.45614035087719296
+"('Varus', 'Viego')",0.6666666666666666
+"('Lulu', 'Viego')",0.4691358024691358
+"('Veigar', 'Viego')",0.6071428571428571
+"('Rakan', 'Veigar')",0.375
+"('Gnar', 'Jarvan IV')",0.38
+"('Gnar', 'Vex')",0.4473684210526316
+"('Gragas', 'Xin Zhao')",0.46153846153846156
+"('Gragas', 'Nautilus')",0.5142857142857142
+"('Nautilus', 'Twisted Fate')",0.5357142857142857
+"('Tryndamere', 'Viktor')",0.625
+"('Lee Sin', 'Tryndamere')",0.6153846153846154
+"('Ryze', 'Tryndamere')",0.38461538461538464
+"('Jinx', 'Tryndamere')",0.573170731707317
+"('Alistar', 'Lee Sin')",0.5172413793103449
+"('Aatrox', 'Xin Zhao')",0.4782608695652174
+"('Aatrox', 'Nautilus')",0.4794520547945205
+"('Nautilus', 'Zoe')",0.5238095238095238
+"('Camille', 'Ezreal')",0.3548387096774194
+"('Camille', 'Karma')",0.5625
+"('Gwen', 'Zoe')",0.6571428571428571
+"('Akali', 'Gragas')",0.3888888888888889
+"('Azir', 'Lee Sin')",0.5352112676056338
+"('Azir', 'Nautilus')",0.45454545454545453
+"('Gwen', 'Vex')",0.5517241379310345
+"('Rakan', 'Vex')",0.56
+"('Aphelios', 'Rakan')",0.49640287769784175
+"('Sion', 'Xin Zhao')",0.2222222222222222
+"('Corki', 'Sion')",0.5454545454545454
+"('Aphelios', 'Karma')",0.3333333333333333
+"('Jax', 'Lee Sin')",0.4666666666666667
+"('Jax', 'Nautilus')",0.5
+"('Corki', 'Gangplank')",0.4222222222222222
+"('Gragas', 'LeBlanc')",0.4634146341463415
+"('Gragas', 'Graves')",0.6
+"('Jinx', 'Zoe')",0.6097560975609756
+"('Renekton', 'Trundle')",0.55
+"('Lulu', 'Renekton')",0.4146341463414634
+"('Lucian', 'Poppy')",0.6111111111111112
+"('Lucian', 'Nautilus')",0.6875
+"('Azir', 'Jarvan IV')",0.46153846153846156
+"('Azir', 'Rakan')",0.6
+"('Aatrox', 'Twisted Fate')",0.4666666666666667
+"('Gangplank', 'Jarvan IV')",0.55
+"('Gangplank', 'Thresh')",0.7222222222222222
+"('Renekton', 'Ryze')",0.4146341463414634
+"('Caitlyn', 'Ryze')",0.4722222222222222
+"('Lux', 'Ryze')",0.5217391304347826
+"('Gwen', 'Sett')",0.47058823529411764
+"('Graves', 'Orianna')",0.46808510638297873
+"('Ezreal', 'Orianna')",0.2916666666666667
+"('Akali', ""Kai'Sa"")",0.5882352941176471
+"('Akali', 'Nautilus')",0.5
+"(""Kai'Sa"", 'Vex')",0.391304347826087
+"(""Kai'Sa"", 'Nautilus')",0.42207792207792205
+"('Thresh', 'Tryndamere')",0.5652173913043478
+"('Braum', 'Gwen')",0.49019607843137253
+"('Gwen', 'LeBlanc')",0.41509433962264153
+"('Jayce', 'Sylas')",0.5789473684210527
+"('Varus', 'Xin Zhao')",0.43478260869565216
+"('Galio', 'Leona')",0.56
+"('Leona', 'Varus')",0.2
+"('Rakan', 'Ryze')",0.4074074074074074
+"('Aphelios', 'Twisted Fate')",0.543859649122807
+"('Gnar', 'Nautilus')",0.4224137931034483
+"('Gragas', 'Ryze')",0.35135135135135137
+"('Lee Sin', 'Sion')",0.5
+"('Leona', 'Sion')",0.5789473684210527
+"('Corki', 'Gragas')",0.4745762711864407
+"('Renekton', 'Yasuo')",0.6
+"('Kennen', 'Viego')",0.4878048780487805
+"('Alistar', 'Kennen')",0.2777777777777778
+"('Alistar', 'Jhin')",0.3333333333333333
+"('LeBlanc', 'Ornn')",0.46153846153846156
+"('Ornn', 'Rakan')",0.4878048780487805
+"('LeBlanc', 'Rakan')",0.48936170212765956
+"('Gangplank', 'Nami')",0.5625
+"('Lucian', 'Nami')",0.5416666666666666
+"('Diana', 'Irelia')",0.4
+"('Irelia', 'Nautilus')",0.6666666666666666
+"('Gwen', 'Twisted Fate')",0.5454545454545454
+"('Rakan', 'Twisted Fate')",0.5833333333333334
+"('LeBlanc', 'Viego')",0.4444444444444444
+"('Lucian', 'Viego')",0.5625
+"('Nami', 'Viego')",0.5882352941176471
+"('LeBlanc', 'Lucian')",0.5
+"('LeBlanc', 'Nami')",0.43478260869565216
+"('Jinx', 'Sion')",0.40625
+"('Viktor', 'Yuumi')",0.4222222222222222
+"('Ezreal', 'Ryze')",0.45161290322580644
+"('Galio', 'Nautilus')",0.5
+"('Thresh', 'Zoe')",0.625
+"('Diana', 'Graves')",0.42105263157894735
+"('Aphelios', 'Diana')",0.5714285714285714
+"('Ezreal', 'Viego')",0.4672131147540984
+"('Renekton', 'Sylas')",0.5405405405405406
+"('Rakan', 'Sylas')",0.5797101449275363
+"('Graves', 'Varus')",0.3125
+"('Lee Sin', 'Lissandra')",0.4146341463414634
+"('Lee Sin', 'Varus')",0.4
+"('Jarvan IV', 'Tryndamere')",0.6521739130434783
+"('LeBlanc', 'Tryndamere')",0.4444444444444444
+"('Aphelios', 'Tryndamere')",0.4024390243902439
+"('Ezreal', 'Renekton')",0.29411764705882354
+"(""Kai'Sa"", 'Ornn')",0.7647058823529411
+"('Braum', 'Gragas')",0.42105263157894735
+"('Braum', 'Corki')",0.4642857142857143
+"('Graves', 'Xayah')",0.4791666666666667
+"('Viktor', 'Xayah')",0.46153846153846156
+"('Leona', 'Xayah')",0.4482758620689655
+"('Gnar', 'Thresh')",0.5
+"('Varus', 'Viktor')",0.4782608695652174
+"('Jarvan IV', 'Sylas')",0.5882352941176471
+"('Nautilus', ""Rek'Sai"")",0.35294117647058826
+"('Jax', 'Lulu')",0.4166666666666667
+"('Braum', 'Jarvan IV')",0.4666666666666667
+"('Gnar', 'Yuumi')",0.5348837209302325
+"('LeBlanc', 'Yuumi')",0.2631578947368421
+"('Alistar', 'Xin Zhao')",0.3611111111111111
+"('Alistar', 'Ezreal')",0.4583333333333333
+"('Lee Sin', 'Seraphine')",0.47619047619047616
+"('Kennen', 'Trundle')",0.47619047619047616
+"('Aphelios', 'Kennen')",0.4107142857142857
+"('Orianna', 'Trundle')",0.5517241379310345
+"('Gangplank', 'Lulu')",0.5357142857142857
+"('Azir', 'Gwen')",0.4880952380952381
+"('Gwen', 'Yuumi')",0.4426229508196721
+"('Viego', 'Yuumi')",0.5211267605633803
+"('Azir', 'Yuumi')",0.47368421052631576
+"('Sion', 'Trundle')",0.47058823529411764
+"('Aphelios', 'Sion')",0.3958333333333333
+"('Corki', 'Gnar')",0.5333333333333333
+"('Gnar', 'Rakan')",0.5203252032520326
+"('Lee Sin', 'Malphite')",0.8888888888888888
+"(""Kog'Maw"", 'Lulu')",0.40540540540540543
+"('Gnar', 'Sylas')",0.5981308411214953
+"('Gwen', ""Kai'Sa"")",0.5714285714285714
+"('Gragas', 'Yuumi')",0.42105263157894735
+"('Ezreal', 'Yuumi')",0.390625
+"('Akali', 'Jayce')",0.6
+"('Gragas', 'Leona')",0.38181818181818183
+"(""Kai'Sa"", 'Ryze')",0.35294117647058826
+"('Gnar', 'Viego')",0.45662100456621
+"('Nautilus', 'Samira')",0.5869565217391305
+"('Ezreal', 'LeBlanc')",0.35294117647058826
+"('Gragas', 'Poppy')",0.5428571428571428
+"('Corki', 'Poppy')",0.6216216216216216
+"('Aphelios', 'Poppy')",0.55
+"('Nautilus', 'Varus')",0.625
+"('Ornn', 'Poppy')",0.5161290322580645
+"('Viego', 'Zoe')",0.47058823529411764
+"('Graves', 'LeBlanc')",0.5416666666666666
+"('Ezreal', 'Sion')",0.5882352941176471
+"('Sion', 'Yuumi')",0.5882352941176471
+"('Sylas', 'Thresh')",0.4
+"('Jayce', 'Xayah')",0.5471698113207547
+"('LeBlanc', 'Xayah')",0.4634146341463415
+"('Rakan', 'Xayah')",0.5632911392405063
+"('Vex', 'Wukong')",0.6086956521739131
+"('Jinx', 'Wukong')",0.45263157894736844
+"('Jayce', 'Trundle')",0.5555555555555556
+"('Rakan', 'Trundle')",0.48717948717948717
+"('Akali', 'Renekton')",0.6538461538461539
+"('Ezreal', 'Hecarim')",0.5769230769230769
+"('Hecarim', 'Yuumi')",0.4482758620689655
+"('Aphelios', 'Rell')",0.47058823529411764
+"('Rakan', 'Sion')",0.4
+"('Camille', 'Trundle')",0.4642857142857143
+"('Trundle', 'Zoe')",0.4
+"('Ezreal', 'Trundle')",0.39473684210526316
+"('Akali', 'Ryze')",0.36
+"('Graves', 'Zoe')",0.48717948717948717
+"('Jax', 'Jinx')",0.5862068965517241
+"('Gwen', 'Lucian')",0.59375
+"('Leona', 'Lucian')",0.4117647058823529
+"('Braum', 'Renekton')",0.48
+"('Kennen', 'Ryze')",0.5862068965517241
+"('Gwen', 'Varus')",0.25
+"('Akali', 'Trundle')",0.35
+"('Nautilus', 'Trundle')",0.5046728971962616
+"('Kalista', 'Renekton')",0.6111111111111112
+"('Corki', 'Kalista')",0.6578947368421053
+"('Kalista', 'Rakan')",0.5
+"('Orianna', 'Viego')",0.375
+"('Leona', 'Orianna')",0.3953488372093023
+"('Amumu', 'Wukong')",0.42424242424242425
+"('Ezreal', 'Gnar')",0.45454545454545453
+"('Karma', 'Olaf')",0.35294117647058826
+"('Gangplank', 'Viego')",0.5508474576271186
+"('Tahm Kench', 'Yone')",0.68
+"('Ezreal', 'Olaf')",0.5
+"('Akali', 'Orianna')",0.6666666666666666
+"('Nautilus', 'Orianna')",0.504950495049505
+"('Graves', ""Kai'Sa"")",0.5384615384615384
+"('Jarvan IV', 'Yuumi')",0.3103448275862069
+"('Kennen', 'Sylas')",0.6666666666666666
+"('Jinx', 'Sylas')",0.5595238095238095
+"('Jarvan IV', 'Tahm Kench')",0.5263157894736842
+"('Orianna', 'Tahm Kench')",0.5111111111111111
+"(""Kai'Sa"", 'Tryndamere')",0.5333333333333333
+"('Gragas', ""Kai'Sa"")",0.4117647058823529
+"('Viktor', 'Volibear')",0.37209302325581395
+"('Ezreal', 'Volibear')",0.325
+"('Karma', 'Volibear')",0.3902439024390244
+"('Alistar', 'Gwen')",0.6097560975609756
+"('Alistar', 'LeBlanc')",0.375
+"('Lee Sin', 'Rell')",0.5
+"('Gnar', 'Sivir')",0.6056338028169014
+"('Sivir', 'Xin Zhao')",0.6388888888888888
+"('Sivir', 'Viktor')",0.5
+"('Sivir', 'Yuumi')",0.6124031007751938
+"('Ornn', 'Yuumi')",0.5471698113207547
+"('Gwen', 'Poppy')",0.6
+"('Ezreal', 'Poppy')",0.4
+"('Corki', 'Yuumi')",0.45454545454545453
+"('Akali', 'Rakan')",0.5918367346938775
+"('Nautilus', 'Sylas')",0.5714285714285714
+"('Galio', 'Lucian')",0.5333333333333333
+"('Lissandra', 'Ornn')",0.6111111111111112
+"('Lissandra', 'Xin Zhao')",0.6521739130434783
+"('Jinx', 'Lissandra')",0.5185185185185185
+"('Lissandra', 'Lulu')",0.5277777777777778
+"('Poppy', 'Tahm Kench')",0.5952380952380952
+"('Tahm Kench', 'Twisted Fate')",0.6129032258064516
+"('Fiora', 'Viego')",0.5952380952380952
+"('Braum', 'LeBlanc')",0.2777777777777778
+"('Orianna', 'Yuumi')",0.5294117647058824
+"('Ezreal', 'Nautilus')",0.40476190476190477
+"('Gnar', 'Ryze')",0.3368421052631579
+"('Camille', 'Lucian')",0.3333333333333333
+"('Camille', 'Nami')",0.29411764705882354
+"('Lee Sin', 'Lucian')",0.4444444444444444
+"('Lee Sin', 'Nami')",0.41025641025641024
+"('Lucian', 'Ryze')",0.6111111111111112
+"('Nami', 'Ryze')",0.6
+"('Renekton', 'Sivir')",0.4418604651162791
+"('Akali', 'Alistar')",0.4782608695652174
+"('Alistar', 'Aphelios')",0.4189189189189189
+"('Jax', 'Rakan')",0.6666666666666666
+"('LeBlanc', 'Sion')",0.3157894736842105
+"('Aphelios', 'Malphite')",0.5714285714285714
+"('Akali', 'Yuumi')",0.5185185185185185
+"('Poppy', 'Thresh')",0.4444444444444444
+"('Gnar', 'Trundle')",0.5304347826086957
+"('Kalista', 'Lee Sin')",0.5689655172413793
+"('Kalista', 'Xin Zhao')",0.6129032258064516
+"('Kalista', 'Sett')",0.5
+"('Akali', 'Gwen')",0.5897435897435898
+"('Gwen', 'Kalista')",0.48484848484848486
+"('Jarvan IV', 'Kalista')",0.4666666666666667
+"('Akali', 'Kalista')",0.5517241379310345
+"('Gragas', 'Kalista')",0.5769230769230769
+"('Akali', 'Poppy')",0.6
+"('Alistar', 'Poppy')",0.43478260869565216
+"('Gangplank', 'Yuumi')",0.53125
+"('Galio', 'Yuumi')",0.7222222222222222
+"('Ornn', 'Zoe')",0.4666666666666667
+"('Gragas', 'Xayah')",0.46153846153846156
+"('Poppy', 'Rakan')",0.45454545454545453
+"('Akali', 'Hecarim')",0.4782608695652174
+"('Gwen', 'Renekton')",0.5882352941176471
+"('Ryze', 'Yuumi')",0.4230769230769231
+"('Orianna', 'Poppy')",0.3333333333333333
+"('Karma', 'Wukong')",0.7
+"('Ezreal', 'Twisted Fate')",0.5294117647058824
+"('Akali', 'Gnar')",0.39215686274509803
+"('Aphelios', 'Lissandra')",0.4918032786885246
+"('Ornn', 'Xayah')",0.5357142857142857
+"('Jarvan IV', 'Xayah')",0.6842105263157895
+"('Vex', 'Xayah')",0.5
+"('Ryze', 'Trundle')",0.3902439024390244
+"('Lucian', 'Trundle')",0.46296296296296297
+"('Nami', 'Trundle')",0.48
+"(""Kai'Sa"", 'Viego')",0.4090909090909091
+"('Sylas', 'Yuumi')",0.5897435897435898
+"('Gwen', 'Sivir')",0.5636363636363636
+"('LeBlanc', 'Sivir')",0.3870967741935484
+"('Karma', 'Sivir')",0.35294117647058826
+"('Gangplank', 'Orianna')",0.6086956521739131
+"('Orianna', 'Sion')",0.5333333333333333
+"('Gragas', 'Hecarim')",0.29411764705882354
+"('Gwen', 'Xayah')",0.5849056603773585
+"('Trundle', 'Xayah')",0.4444444444444444
+"('Sylas', 'Trundle')",0.5194805194805194
+"('Aphelios', 'Seraphine')",0.5
+"('Akali', 'Lucian')",0.5555555555555556
+"('Akali', 'Azir')",0.5
+"('Azir', 'Trundle')",0.4725274725274725
+"('Azir', 'Thresh')",0.4444444444444444
+"('Orianna', 'Renekton')",0.35
+"('Karma', 'Sion')",0.625
+"('Aatrox', 'Ezreal')",0.32
+"('Camille', 'Sivir')",0.6521739130434783
+"('Camille', 'Yuumi')",0.5
+"('Hecarim', 'Twisted Fate')",0.375
+"('Gragas', 'Tahm Kench')",0.5641025641025641
+"('Senna', 'Viktor')",0.5405405405405406
+"('Senna', 'Tahm Kench')",0.5147058823529411
+"('Tahm Kench', 'Tryndamere')",0.6666666666666666
+"('Lulu', 'Poppy')",0.43636363636363634
+"('Ryze', 'Volibear')",0.4794520547945205
+"('Jinx', 'Volibear')",0.5289256198347108
+"('Lulu', 'Volibear')",0.45
+"('Gangplank', ""Kai'Sa"")",0.7368421052631579
+"('Sylas', 'Wukong')",0.609375
+"('Gnar', 'Orianna')",0.42105263157894735
+"('Gnar', 'Leona')",0.36752136752136755
+"('Renekton', 'Tahm Kench')",0.5263157894736842
+"('Senna', 'Trundle')",0.43333333333333335
+"('Tahm Kench', 'Trundle')",0.5142857142857142
+"('Aphelios', 'Nocturne')",0.47368421052631576
+"('Leona', 'Nocturne')",0.4
+"('Jax', 'Yuumi')",0.6470588235294118
+"('Azir', 'Camille')",0.4444444444444444
+"('Diana', 'Lucian')",0.3684210526315789
+"('Camille', 'Sylas')",0.6086956521739131
+"('Draven', 'Sylas')",0.5172413793103449
+"('Draven', 'Leona')",0.5
+"('Gwen', 'Veigar')",0.5625
+"('Nautilus', 'Veigar')",0.6285714285714286
+"('Ezreal', 'Fiora')",0.65
+"('Graves', 'Ornn')",0.26666666666666666
+"('Akali', 'Tahm Kench')",0.5
+"('Graves', 'Hecarim')",0.5952380952380952
+"('Nami', 'Xin Zhao')",0.391304347826087
+"('Gnar', 'Graves')",0.5217391304347826
+"('Aatrox', 'Rakan')",0.29411764705882354
+"('Aphelios', 'Azir')",0.5633802816901409
+"('Gnar', 'Zoe')",0.42105263157894735
+"('Gnar', 'Xayah')",0.5245901639344263
+"('Viego', 'Xayah')",0.43010752688172044
+"('Aatrox', 'Lucian')",0.6410256410256411
+"('Gragas', 'Lucian')",0.5555555555555556
+"('Gangplank', 'Poppy')",0.5128205128205128
+"('Akali', 'Xayah')",0.5135135135135135
+"('Lee Sin', 'Xayah')",0.5420560747663551
+"('Ryze', 'Xayah')",0.3469387755102041
+"('Galio', 'Gwen')",0.5681818181818182
+"('Alistar', 'Jayce')",0.5384615384615384
+"('Alistar', 'Ryze')",0.4523809523809524
+"('Jayce', 'Vex')",0.55
+"('Fiora', 'Lee Sin')",0.6
+"('Fiora', 'Ryze')",0.5333333333333333
+"('Fiora', 'Leona')",0.68
+"('Braum', 'Jayce')",0.6111111111111112
+"('Kindred', 'Senna')",0.6875
+"('Camille', 'Orianna')",0.5517241379310345
+"('Diana', 'Gnar')",0.38461538461538464
+"('Gnar', 'Senna')",0.5625
+"('Graves', 'Sylas')",0.46875
+"('Camille', 'Tahm Kench')",0.5813953488372093
+"('Graves', 'Veigar')",0.4
+"('Aphelios', 'Veigar')",0.4782608695652174
+"('Thresh', 'Veigar')",0.5
+"('Poppy', 'Ryze')",0.5
+"('Gwen', 'Tahm Kench')",0.45217391304347826
+"('LeBlanc', 'Poppy')",0.5769230769230769
+"('Aatrox', 'Poppy')",0.4722222222222222
+"('Renekton', 'Xayah')",0.3888888888888889
+"('Tahm Kench', 'Viego')",0.47928994082840237
+"('Nautilus', 'Olaf')",0.9
+"('Sylas', 'Volibear')",0.56
+"('Aphelios', 'Volibear')",0.4818181818181818
+"('Leona', 'Volibear')",0.5352112676056338
+"('Ryze', 'Tahm Kench')",0.4696969696969697
+"('Gwen', 'Volibear')",0.45
+"('Tryndamere', 'Volibear')",0.44
+"('Graves', 'Volibear')",0.45098039215686275
+"('Corki', 'Volibear')",0.5365853658536586
+"('Hecarim', 'Ryze')",0.47692307692307695
+"('Lucian', 'Renekton')",0.4230769230769231
+"('Twisted Fate', 'Xayah')",0.4375
+"('Kennen', 'Rakan')",0.3333333333333333
+"('Sylas', 'Xayah')",0.4666666666666667
+"('Veigar', 'Xin Zhao')",0.5789473684210527
+"('Orianna', 'Xayah')",0.5
+"('Nautilus', 'Xayah')",0.4270833333333333
+"('Nami', 'Renekton')",0.4782608695652174
+"('Graves', 'Senna')",0.5333333333333333
+"('Aatrox', 'Tahm Kench')",0.4827586206896552
+"('Tahm Kench', 'Varus')",0.5
+"('Gnar', 'Poppy')",0.6195652173913043
+"('Braum', 'Gnar')",0.5094339622641509
+"('Braum', 'Poppy')",0.5555555555555556
+"('Aphelios', 'Sejuani')",0.48484848484848486
+"('Kalista', 'Poppy')",0.5609756097560976
+"('Kalista', 'LeBlanc')",0.45454545454545453
+"('Azir', 'Wukong')",0.5454545454545454
+"('Leona', 'Wukong')",0.6964285714285714
+"('Camille', 'Senna')",0.5652173913043478
+"('Galio', 'Tahm Kench')",0.26666666666666666
+"('Gwen', 'Nami')",0.5918367346938775
+"('Jinx', 'Veigar')",0.43902439024390244
+"('Camille', ""Kai'Sa"")",0.44
+"('Ornn', 'Volibear')",0.44
+"('Caitlyn', 'Volibear')",0.5185185185185185
+"('Azir', 'Gragas')",0.425531914893617
+"('Renekton', 'Volibear')",0.5666666666666667
+"('Vex', 'Volibear')",0.35
+"('Thresh', 'Volibear')",0.6111111111111112
+"('Jax', 'Tahm Kench')",0.5172413793103449
+"('Sylas', 'Tahm Kench')",0.5217391304347826
+"('Draven', 'Gwen')",0.6206896551724138
+"('Gragas', 'Volibear')",0.3333333333333333
+"('Azir', 'Volibear')",0.4857142857142857
+"('Hecarim', 'Kennen')",0.48
+"('Kennen', 'Tahm Kench')",0.5263157894736842
+"('Poppy', 'Senna')",0.5416666666666666
+"('Irelia', 'Jinx')",0.65
+"('Gangplank', 'Sylas')",0.5957446808510638
+"('Aatrox', 'Azir')",0.5098039215686274
+"('Lucian', 'Ornn')",0.5789473684210527
+"('Nami', 'Ornn')",0.5957446808510638
+"('Lucian', 'Volibear')",0.4857142857142857
+"('Nami', 'Volibear')",0.4166666666666667
+"('Corki', 'Lucian')",0.6470588235294118
+"('Corki', 'Nami')",0.6666666666666666
+"('Graves', 'Gwen')",0.41379310344827586
+"('Graves', 'Zeri')",0.5555555555555556
+"('Gwen', 'Zeri')",0.5846153846153846
+"('Renekton', 'Zeri')",0.5
+"('Yuumi', 'Zeri')",0.5544554455445545
+"('Gnar', 'Tahm Kench')",0.5405405405405406
+"('Corki', 'Zeri')",0.5384615384615384
+"('Nautilus', 'Zeri')",0.5514705882352942
+"('Galio', 'Gnar')",0.5428571428571428
+"('Gwen', 'Tristana')",0.4482758620689655
+"('Azir', 'Ornn')",0.48314606741573035
+"('Camille', 'Kalista')",0.5
+"('Galio', 'Kalista')",0.4444444444444444
+"('Orianna', 'Volibear')",0.6176470588235294
+"('Volibear', 'Zeri')",0.5616438356164384
+"('Volibear', 'Yuumi')",0.5
+"('Orianna', 'Zeri')",0.5471698113207547
+"('Akali', 'Volibear')",0.4838709677419355
+"('Gnar', 'Twisted Fate')",0.42857142857142855
+"('Olaf', 'Zeri')",0.782608695652174
+"('Viktor', 'Zeri')",0.5588235294117647
+"('Akali', 'Zeri')",0.5952380952380952
+"('Lee Sin', 'Zeri')",0.6224489795918368
+"('Twisted Fate', 'Zeri')",0.5
+"('Gnar', 'Zeri')",0.52046783625731
+"('Rakan', 'Zeri')",0.550561797752809
+"('Leona', 'Tristana')",0.6190476190476191
+"('Jarvan IV', 'Zeri')",0.5357142857142857
+"('Ryze', 'Zeri')",0.527027027027027
+"('Leona', 'Zeri')",0.5906040268456376
+"('Gwen', 'Lissandra')",0.6046511627906976
+"('Lissandra', 'Viego')",0.5604395604395604
+"('Lissandra', 'Tahm Kench')",0.4
+"('Gwen', 'Wukong')",0.5899280575539568
+"('Orianna', 'Wukong')",0.5454545454545454
+"('Azir', 'Renekton')",0.39473684210526316
+"('Kalista', 'Viego')",0.4583333333333333
+"('Jayce', 'Zeri')",0.7209302325581395
+"('Vex', 'Zeri')",0.46153846153846156
+"('Gragas', 'Zeri')",0.5588235294117647
+"('Lulu', 'Zeri')",0.5
+"('Xin Zhao', 'Zeri')",0.5576923076923077
+"('Braum', 'Zeri')",0.5689655172413793
+"('Poppy', 'Zeri')",0.4842105263157895
+"('Poppy', 'Yuumi')",0.5384615384615384
+"('Kennen', 'Zeri')",0.625
+"('Aatrox', 'Ryze')",0.42857142857142855
+"('Jax', 'Zeri')",0.6388888888888888
+"('Tahm Kench', 'Zoe')",0.5416666666666666
+"('Azir', 'Kalista')",0.4722222222222222
+"('Azir', 'Zeri')",0.5153846153846153
+"('Senna', 'Sylas')",0.5555555555555556
+"('Ahri', 'Jayce')",0.5606060606060606
+"('Ahri', 'Jarvan IV')",0.5909090909090909
+"('Ahri', 'Aphelios')",0.4864864864864865
+"('Ahri', 'Leona')",0.5192307692307693
+"('Ahri', 'Graves')",0.43010752688172044
+"('Ahri', 'Volibear')",0.45263157894736844
+"('Ahri', 'Caitlyn')",0.5714285714285714
+"('Ahri', 'Nami')",0.5
+"('Jayce', 'Volibear')",0.5102040816326531
+"('Ahri', 'Renekton')",0.5357142857142857
+"('Ahri', 'Tahm Kench')",0.5609756097560976
+"('Kindred', 'Nautilus')",0.3888888888888889
+"('Gnar', 'Hecarim')",0.5121951219512195
+"('Ahri', 'Gnar')",0.49122807017543857
+"('Ahri', 'Hecarim')",0.5444444444444444
+"('Ahri', 'Braum')",0.47619047619047616
+"('Karma', 'Zeri')",0.23076923076923078
+"('LeBlanc', 'Zeri')",0.5238095238095238
+"('Tryndamere', 'Zeri')",0.5666666666666667
+"('Diana', 'Zeri')",0.42105263157894735
+"('Irelia', 'Zeri')",0.6521739130434783
+"('Jax', 'Trundle')",0.6666666666666666
+"('Trundle', 'Zeri')",0.4594594594594595
+"('Alistar', 'Vex')",0.4375
+"('Ahri', 'Thresh')",0.38461538461538464
+"('Ahri', 'Fiora')",0.6428571428571429
+"('Ahri', 'Jhin')",0.5454545454545454
+"('Ahri', 'Karma')",0.4878048780487805
+"('Ornn', 'Tahm Kench')",0.47540983606557374
+"('Azir', 'Gangplank')",0.5625
+"('Ahri', 'Gwen')",0.5705521472392638
+"('Ahri', 'Viego')",0.5106382978723404
+"('Ahri', 'Jinx')",0.5073170731707317
+"('Ahri', 'Nautilus')",0.5141509433962265
+"('Nautilus', 'Volibear')",0.3761467889908257
+"('Ahri', 'Gragas')",0.5671641791044776
+"('Ahri', 'Xin Zhao')",0.453781512605042
+"('Syndra', 'Zeri')",0.5217391304347826
+"('Alistar', 'Gnar')",0.40384615384615385
+"('Ryze', 'Wukong')",0.5333333333333333
+"('Wukong', 'Zeri')",0.5694444444444444
+"('Nautilus', 'Wukong')",0.5743589743589743
+"('Alistar', 'Renekton')",0.2777777777777778
+"('Alistar', 'Zeri')",0.5342465753424658
+"('Lissandra', 'Nautilus')",0.4
+"('Ornn', 'Zeri')",0.4567901234567901
+"('Hecarim', 'Jayce')",0.5098039215686274
+"('Camille', 'Volibear')",0.4166666666666667
+"('Gangplank', 'Ryze')",0.5263157894736842
+"('Hecarim', 'Zeri')",0.49019607843137253
+"('Zeri', 'Zoe')",0.5555555555555556
+"('Ahri', 'Lee Sin')",0.5657894736842105
+"('Braum', 'Sylas')",0.6666666666666666
+"('Ahri', 'Alistar')",0.5454545454545454
+"('Tristana', 'Viego')",0.5806451612903226
+"('Ahri', 'Tristana')",0.5294117647058824
+"('Ahri', 'Rakan')",0.5392156862745098
+"('Tahm Kench', 'Volibear')",0.44680851063829785
+"('Azir', 'Gnar')",0.5789473684210527
+"('Alistar', ""Kai'Sa"")",0.5416666666666666
+"('Veigar', 'Zeri')",0.7647058823529411
+"('Irelia', 'Tahm Kench')",0.47058823529411764
+"('Syndra', 'Volibear')",0.375
+"('Camille', 'Zeri')",0.6122448979591837
+"('Viego', 'Zeri')",0.6
+"('Hecarim', 'Sylas')",0.35294117647058826
+"('Sylas', 'Zeri')",0.49504950495049505
+"('Gnar', 'Yasuo')",0.4666666666666667
+"('Ornn', 'Wukong')",0.6122448979591837
+"('Ezreal', 'Wukong')",0.5189873417721519
+"('Ezreal', 'Ornn')",0.42857142857142855
+"('Poppy', 'Renekton')",0.4
+"('LeBlanc', 'Volibear')",0.4666666666666667
+"('Pyke', 'Viego')",0.5882352941176471
+"('Alistar', 'Graves')",0.46153846153846156
+"('Kalista', 'Viktor')",0.5405405405405406
+"('Ornn', 'Sylas')",0.5471698113207547
+"('Ahri', 'Jax')",0.5789473684210527
+"('LeBlanc', 'Wukong')",0.574468085106383
+"('Tahm Kench', 'Wukong')",0.5510204081632653
+"('Lee Sin', 'Tristana')",0.3888888888888889
+"('Rell', 'Tristana')",0.5
+"('Alistar', 'Camille')",0.36363636363636365
+"('Tahm Kench', 'Zeri')",0.5862068965517241
+"('Renekton', 'Taliyah')",0.5
+"('Senna', 'Taliyah')",0.59375
+"('Senna', 'Sion')",0.7058823529411765
+"('Ahri', ""Kai'Sa"")",0.52
+"('Ahri', 'Gangplank')",0.589041095890411
+"('Ahri', 'Zeri')",0.5149700598802395
+"('Alistar', 'Sylas')",0.5454545454545454
+"('Galio', 'Zeri')",0.7575757575757576
+"('Alistar', 'Galio')",0.5333333333333333
+"('Hecarim', 'LeBlanc')",0.65
+"('Gangplank', 'Trundle')",0.3541666666666667
+"('Nautilus', 'Sion')",0.40625
+"('Ezreal', 'Gangplank')",0.5
+"('Gangplank', 'Zeri')",0.59375
+"('Lucian', 'Sylas')",0.6785714285714286
+"('Nami', 'Sylas')",0.6607142857142857
+"('Ahri', 'Lulu')",0.5211267605633803
+"('Aatrox', 'Ahri')",0.509090909090909
+"('Poppy', 'Sivir')",0.6451612903225806
+"('Ornn', 'Senna')",0.5416666666666666
+"('Syndra', 'Xayah')",0.4375
+"('Gangplank', 'Tahm Kench')",0.5733333333333334
+"('Gangplank', 'LeBlanc')",0.5862068965517241
+"('Ahri', 'Olaf')",0.625
+"('Nautilus', 'Tristana')",0.37209302325581395
+"('Gnar', 'Veigar')",0.35294117647058826
+"('Ahri', 'Ornn')",0.5662650602409639
+"('Alistar', 'Hecarim')",0.5384615384615384
+"('Azir', 'Tahm Kench')",0.494949494949495
+"('Aatrox', 'Braum')",0.45
+"('Gwen', 'Seraphine')",0.4666666666666667
+"('Seraphine', 'Viego')",0.5151515151515151
+"('Ahri', 'Sett')",0.6521739130434783
+"('Olaf', 'Seraphine')",0.75
+"('Rakan', 'Wukong')",0.6052631578947368
+"('Rakan', 'Sejuani')",0.5294117647058824
+"('Lee Sin', 'Sejuani')",0.48148148148148145
+"('LeBlanc', 'Sejuani')",0.36363636363636365
+"('Alistar', 'Volibear')",0.4444444444444444
+"('Aphelios', 'Yone')",0.4166666666666667
+"('Fiora', 'Zeri')",0.5517241379310345
+"('Ahri', 'Xayah')",0.6190476190476191
+"('Aatrox', 'Sylas')",0.6444444444444445
+"('Fiora', 'Tahm Kench')",0.3793103448275862
+"('Yone', 'Zeri')",0.5666666666666667
+"('Nautilus', 'Yone')",0.4166666666666667
+"('Hecarim', 'Veigar')",0.3333333333333333
+"('Camille', 'Xayah')",0.4666666666666667
+"('Gwen', 'Twitch')",0.3333333333333333
+"('Ahri', 'Wukong')",0.5754189944134078
+"('Ahri', 'Akali')",0.5
+"('Draven', 'Gnar')",0.46153846153846156
+"('Draven', 'Lee Sin')",0.4583333333333333
+"('Draven', 'Nautilus')",0.36538461538461536
+"('Sett', 'Zeri')",0.5
+"('Aatrox', 'Volibear')",0.6666666666666666
+"('Aatrox', 'Zeri')",0.509090909090909
+"('Gnar', 'Zilean')",0.625
+"('Ahri', 'Camille')",0.43103448275862066
+"('Veigar', 'Volibear')",0.47058823529411764
+"('Gnar', 'Seraphine')",0.45
+"('Ezreal', 'Seraphine')",0.375
+"('Udyr', 'Zeri')",0.4117647058823529
+"('Ahri', 'Ezreal')",0.48717948717948717
+"('Ahri', 'Tryndamere')",0.5849056603773585
+"('Gnar', 'Volibear')",0.41379310344827586
+"('Hecarim', 'Xayah')",0.4358974358974359
+"('Graves', 'Kalista')",0.19047619047619047
+"('Trundle', 'Yuumi')",0.4772727272727273
+"('Ahri', 'Poppy')",0.5833333333333334
+"(""Kai'Sa"", 'LeBlanc')",0.6
+"('Braum', 'Trundle')",0.45454545454545453
+"('Ahri', 'Kalista')",0.5
+"('Renekton', 'Sejuani')",0.35714285714285715
+"('Corki', 'Sejuani')",0.41025641025641024
+"('Sejuani', 'Senna')",0.34615384615384615
+"('Sejuani', 'Tahm Kench')",0.4318181818181818
+"('Azir', 'Senna')",0.4406779661016949
+"('Aatrox', 'Seraphine')",0.7222222222222222
+"('Aatrox', 'Alistar')",0.6875
+"('Ahri', 'Yuumi')",0.5862068965517241
+"('Ezreal', 'Sejuani')",0.34375
+"('Karma', 'Sejuani')",0.47368421052631576
+"('Galio', 'Hecarim')",0.43478260869565216
+"('Sion', 'Zeri')",0.5294117647058824
+"('Ahri', 'Kennen')",0.5333333333333333
+"('Gnar', 'Lissandra')",0.47761194029850745
+"('Sion', 'Viego')",0.53125
+"('Hecarim', 'Sion')",0.4375
+"('Rakan', 'Volibear')",0.5454545454545454
+"('Ahri', 'Senna')",0.6585365853658537
+"('Gnar', 'Tristana')",0.4117647058823529
+"('Gwen', 'Nocturne')",0.6363636363636364
+"('Nocturne', 'Ryze')",0.6111111111111112
+"('Jinx', 'Nocturne')",0.6785714285714286
+"('Gangplank', 'Zoe')",0.3125
+"('Azir', 'Ezreal')",0.3620689655172414
+"('Nautilus', 'Sejuani')",0.43529411764705883
+"('Ahri', 'Trundle')",0.5121951219512195
+"('Gwen', 'Pyke')",0.5294117647058824
+"('Graves', 'Sion')",0.625
+"('Azir', 'Fiora')",0.5
+"('Ahri', 'Sion')",0.6333333333333333
+"('Gnar', ""Kai'Sa"")",0.39285714285714285
+"(""Kai'Sa"", 'Volibear')",0.3
+"('Nautilus', 'Rumble')",0.47058823529411764
+"('Akali', 'Renata Glasc')",0.5476190476190477
+"('Renata Glasc', 'Xin Zhao')",0.5
+"('LeBlanc', 'Renata Glasc')",0.5675675675675675
+"('Renata Glasc', 'Zeri')",0.5794392523364486
+"('Tristana', 'Wukong')",0.5882352941176471
+"('Wukong', 'Yuumi')",0.5930232558139535
+"('Nocturne', 'Tahm Kench')",0.36363636363636365
+"('Volibear', 'Xayah')",0.4489795918367347
+"('Ahri', 'Samira')",0.6875
+"('Gwen', 'Vi')",0.4
+"('Ahri', 'Vi')",0.52
+"('Aphelios', 'Vi')",0.391304347826087
+"('Tahm Kench', 'Vi')",0.4444444444444444
+"('Fiora', 'Sylas')",0.5652173913043478
+"('Tryndamere', 'Xayah')",0.3125
+"('Graves', 'Renata Glasc')",0.4375
+"('Hecarim', 'Renata Glasc')",0.5862068965517241
+"('Renata Glasc', 'Ryze')",0.46511627906976744
+"('Braum', 'Volibear')",0.4117647058823529
+"('Orianna', 'Renata Glasc')",0.4583333333333333
+"('Aphelios', 'Renata Glasc')",0.5477386934673367
+"('Draven', 'LeBlanc')",0.23529411764705882
+"(""Kai'Sa"", 'Sylas')",0.6111111111111112
+"('Jhin', 'Wukong')",0.5
+"('Pyke', 'Wukong')",0.8125
+"('Lee Sin', 'Renata Glasc')",0.4868421052631579
+"(""Kai'Sa"", 'Trundle')",0.65
+"('Galio', 'Xayah')",0.36363636363636365
+"('Kennen', 'Renata Glasc')",0.35294117647058826
+"('Renata Glasc', 'Renekton')",0.41935483870967744
+"('Akali', 'Sivir')",0.48
+"('Ahri', 'Sivir')",0.6176470588235294
+"('Braum', 'Sivir')",0.3888888888888889
+"('Gnar', 'Yone')",0.5333333333333333
+"('Alistar', 'Gangplank')",0.6086956521739131
+"('Kalista', 'Ryze')",0.4666666666666667
+"('Kalista', 'Nautilus')",0.5064935064935064
+"('Jayce', 'Renata Glasc')",0.5789473684210527
+"('Renata Glasc', 'Viego')",0.5606060606060606
+"('Renata Glasc', 'Volibear')",0.48936170212765956
+"('Ahri', 'Draven')",0.631578947368421
+"('Gangplank', 'Volibear')",0.6578947368421053
+"('Ezreal', 'Kayle')",0.29411764705882354
+"('Gwen', 'Renata Glasc')",0.5131578947368421
+"('Azir', 'Renata Glasc')",0.51
+"('Nautilus', 'Vi')",0.6176470588235294
+"('Azir', 'Xayah')",0.375
+"('Alistar', 'Lissandra')",0.47368421052631576
+"('Ahri', 'Renata Glasc')",0.6371681415929203
+"('Sejuani', 'Sylas')",0.56
+"('Renata Glasc', 'Vex')",0.5625
+"('Renata Glasc', 'Xayah')",0.59375
+"('Syndra', 'Wukong')",0.4375
+"('Renata Glasc', 'Tryndamere')",0.4
+"('Jinx', 'Renata Glasc')",0.4838709677419355
+"('Gangplank', 'Renata Glasc')",0.5373134328358209
+"('Jarvan IV', 'Renata Glasc')",0.5
+"('Galio', 'Renata Glasc')",0.47619047619047616
+"('Renata Glasc', 'Trundle')",0.5595238095238095
+"('Renata Glasc', 'Zoe')",0.5882352941176471
+"('Gangplank', 'Xayah')",0.4827586206896552
+"('Gnar', 'Nocturne')",0.4666666666666667
+"('Nautilus', 'Nocturne')",0.6285714285714286
+"('Aatrox', 'Lissandra')",0.4444444444444444
+"('Gnar', 'Lucian')",0.43283582089552236
+"('Renata Glasc', 'Syndra')",0.375
+"('Gnar', 'Nami')",0.423728813559322
+"('Ahri', 'Lucian')",0.5303030303030303
+"('Gnar', 'Renata Glasc')",0.6050420168067226
+"('Gragas', 'Renata Glasc')",0.575
+"('Fiora', 'Renata Glasc')",0.55
+"('Kennen', 'Nocturne')",0.375
+"('Renata Glasc', 'Yone')",0.5555555555555556
+"('Renata Glasc', 'Sejuani')",0.42857142857142855
+"('Renata Glasc', 'Sion')",0.25
+"('Renata Glasc', 'Viktor')",0.43478260869565216
+"('Sejuani', 'Viego')",0.45045045045045046
+"('Kindred', 'Tahm Kench')",0.6
+"('Camille', 'Renata Glasc')",0.6428571428571429
+"('Akali', 'Nami')",0.5238095238095238
+"('Aatrox', ""Kai'Sa"")",0.6842105263157895
+"('Ashe', 'Tahm Kench')",0.4117647058823529
+"('Lissandra', 'Zeri')",0.6938775510204082
+"('Lissandra', 'Renata Glasc')",0.5777777777777777
+"('Leona', 'Miss Fortune')",0.48
+"('Ornn', 'Renata Glasc')",0.575
+"('Aatrox', 'Xayah')",0.2857142857142857
+"('Alistar', 'Xayah')",0.35294117647058826
+"('Kalista', 'Sylas')",0.5714285714285714
+"('Alistar', 'Trundle')",0.4444444444444444
+"('Ashe', 'Viego')",0.5
+"('Aatrox', 'Senna')",0.7368421052631579
+"('Senna', 'Seraphine')",0.6346153846153846
+"('Poppy', 'Sylas')",0.6785714285714286
+"('Miss Fortune', 'Nautilus')",0.4444444444444444
+"('Poppy', 'Renata Glasc')",0.5932203389830508
+"('Kalista', 'Volibear')",0.42857142857142855
+"('Miss Fortune', 'Viego')",0.5333333333333333
+"('Gnar', 'Kalista')",0.4583333333333333
+"('Ahri', 'Nocturne')",0.6451612903225806
+"('Nocturne', 'Zeri')",0.6923076923076923
+"('Akali', 'Ornn')",0.5555555555555556
+"('Fiora', 'Trundle')",0.30434782608695654
+"('Jax', 'Renata Glasc')",0.75
+"('Nocturne', 'Renata Glasc')",0.9411764705882353
+"('Ahri', 'Kayle')",0.5
+"('Kayle', 'Nautilus')",0.48
+"('Jinx', 'Sejuani')",0.3548387096774194
+"('Braum', 'Sejuani')",0.4
+"('Fiora', 'Yuumi')",0.65
+"('Lissandra', 'Rakan')",0.4782608695652174
+"('Aatrox', 'Renata Glasc')",0.6216216216216216
+"('Wukong', 'Xayah')",0.625
+"('Ashe', 'Gnar')",0.7222222222222222
+"('Draven', 'Renata Glasc')",0.4838709677419355
+"('Azir', 'Lucian')",0.5434782608695652
+"('Azir', 'Nami')",0.5581395348837209
+"('Ahri', 'Sejuani')",0.43636363636363634
+"('Lissandra', 'Trundle')",0.44
+"('Corki', 'Renata Glasc')",0.631578947368421
+"('Kennen', 'Lucian')",0.2
+"('Gragas', 'Wukong')",0.5
+"('Lucian', 'Wukong')",0.6823529411764706
+"('Nami', 'Wukong')",0.6625
+"('Aatrox', 'Kalista')",0.5714285714285714
+"('Camille', 'Wukong')",0.42857142857142855
+"('Samira', 'Wukong')",0.7647058823529411
+"('Galio', 'Wukong')",0.5609756097560976
+"('Gwen', 'Swain')",0.4642857142857143
+"('Lucian', 'Swain')",0.45161290322580644
+"('Swain', 'Trundle')",0.47058823529411764
+"('Gnar', 'Wukong')",0.5757575757575758
+"('Kalista', 'Ornn')",0.49056603773584906
+"('Kalista', 'Wukong')",0.5697674418604651
+"('Lucian', 'Vi')",0.40625
+"('Nami', 'Vi')",0.3870967741935484
+"('Kennen', 'Wukong')",0.4444444444444444
+"('Alistar', 'Wukong')",0.5526315789473685
+"('Wukong', 'Zoe')",0.625
+"('Aatrox', 'Nami')",0.6470588235294118
+"('Senna', 'Wukong')",0.6461538461538462
+"('Renata Glasc', 'Wukong')",0.5691056910569106
+"('Jax', 'Wukong')",0.6428571428571429
+"('Draven', 'Wukong')",0.4827586206896552
+"(""Kai'Sa"", 'Wukong')",0.6379310344827587
+"('Ezreal', 'Renata Glasc')",0.6
+"('Gangplank', 'Wukong')",0.6547619047619048
+"('Kayle', 'Viego')",0.3939393939393939
+"('Senna', 'Yone')",0.6470588235294118
+"('Bard', 'Ezreal')",0.4444444444444444
+"('Jax', 'Kalista')",0.6470588235294118
+"('Kalista', 'Renata Glasc')",0.5138121546961326
+"('Gangplank', 'Kalista')",0.5344827586206896
+"('Sion', 'Wukong')",0.4444444444444444
+"('Aatrox', 'Wukong')",0.5932203389830508
+"('Gwen', 'Taliyah')",0.47761194029850745
+"('Taliyah', 'Wukong')",0.6363636363636364
+"(""Kai'Sa"", 'Taliyah')",0.4444444444444444
+"('Nautilus', 'Taliyah')",0.5288461538461539
+"('Ezreal', 'Lissandra')",0.48148148148148145
+"('Braum', 'Lissandra')",0.5625
+"('Jax', 'Taliyah')",0.6086956521739131
+"('Gnar', 'Taliyah')",0.5108695652173914
+"('Lee Sin', 'Taliyah')",0.6363636363636364
+"('Ezreal', 'Taliyah')",0.5909090909090909
+"('Tahm Kench', 'Taliyah')",0.5737704918032787
+"('Fiora', 'Lucian')",0.5454545454545454
+"('Fiora', 'Nami')",0.4782608695652174
+"('Lucian', 'Sejuani')",0.6304347826086957
+"('Swain', 'Wukong')",0.5932203389830508
+"('Taliyah', 'Viego')",0.5256410256410257
+"('Rakan', 'Taliyah')",0.5151515151515151
+"('Ornn', 'Taliyah')",0.45652173913043476
+"('Braum', 'Taliyah')",0.5263157894736842
+"('Taliyah', 'Yone')",0.4166666666666667
+"('Lucian', 'Taliyah')",0.5483870967741935
+"('Jinx', 'Taliyah')",0.475
+"('Lulu', 'Taliyah')",0.40425531914893614
+"('Alistar', 'Taliyah')",0.5294117647058824
+"('Leona', 'Taliyah')",0.6666666666666666
+"('Akali', 'Wukong')",0.625
+"('Gangplank', 'Lissandra')",0.5806451612903226
+"('Lissandra', 'Wukong')",0.5735294117647058
+"('Braum', 'Wukong')",0.40476190476190477
+"('Nami', 'Taliyah')",0.5666666666666667
+"('Lissandra', 'Lucian')",0.48148148148148145
+"('Lissandra', 'Nami')",0.52
+"('Fiora', 'Wukong')",0.72
+"('Nami', 'Swain')",0.43333333333333335
+"('Seraphine', 'Wukong')",0.5454545454545454
+"('Swain', 'Viego')",0.5517241379310345
+"('Renata Glasc', 'Swain')",0.4
+"('Gangplank', 'Taliyah')",0.6451612903225806
+"('Olaf', 'Wukong')",0.6363636363636364
+"('Kalista', 'Taliyah')",0.5818181818181818
+"('Fiora', 'Taliyah')",0.4666666666666667
+"('Renata Glasc', 'Taliyah')",0.5636363636363636
+"('Wukong', 'Yone')",0.625
+"('Aatrox', 'Taliyah')",0.6071428571428571
+"('Azir', 'Karma')",0.2777777777777778
+"('Fiora', 'Senna')",0.3333333333333333
+"('Kalista', 'Lissandra')",0.41935483870967744
+"('Nami', 'Viktor')",0.56
+"('Kalista', 'Rell')",0.5625
+"('Kayle', 'Senna')",0.47368421052631576
+"('Gnar', 'Swain')",0.5238095238095238
+"('Nautilus', 'Swain')",0.42857142857142855
+"('Kalista', 'Kayle')",0.5263157894736842
+"('Kayle', 'Lee Sin')",0.5238095238095238
+"('Kayle', 'Tahm Kench')",0.4
+"('Aphelios', 'Taliyah')",0.5531914893617021
+"('Lee Sin', 'Swain')",0.45
+"('Ezreal', 'Swain')",0.5652173913043478
+"('Senna', 'Swain')",0.625
+"('Ahri', 'Twitch')",0.38095238095238093
+"('Draven', 'Viego')",0.45714285714285713
+"('Lissandra', 'Sejuani')",0.3939393939393939
+"('Alistar', 'Sejuani')",0.47368421052631576
+"('Kayle', 'Renata Glasc')",0.6521739130434783
+"('Rakan', 'Swain')",0.75
+"('Alistar', 'Azir')",0.5483870967741935
+"('Rakan', 'Vi')",0.4642857142857143
+"('Renata Glasc', 'Sylas')",0.6363636363636364
+"('Kayle', 'Wukong')",0.5714285714285714
+"('Sejuani', 'Wukong')",0.4948453608247423
+"('Wukong', 'Yasuo')",0.7647058823529411
+"('Gangplank', 'Swain')",0.5333333333333333
+"('Azir', 'Sejuani')",0.49019607843137253
+"('Twitch', 'Yuumi')",0.375
+"('Taliyah', 'Xin Zhao')",0.36666666666666664
+"('Corki', 'Wukong')",0.5
+"('Taliyah', 'Yuumi')",0.5882352941176471
+"('Kalista', 'Swain')",0.5555555555555556
+"('Draven', 'Gangplank')",0.375
+"('Azir', 'Draven')",0.46153846153846156
+"('Sejuani', 'Yuumi')",0.5076923076923077
+"('Lissandra', 'Senna')",0.3684210526315789
+"('Jax', 'Seraphine')",0.5333333333333333
+"('Azir', 'Jax')",0.5
+"('Lissandra', 'Vi')",0.4782608695652174
+"('Sejuani', 'Viktor')",0.4166666666666667
+"('Akali', 'Vi')",0.3888888888888889
+"('Sejuani', 'Taliyah')",0.5740740740740741
+"('Nami', 'Sejuani')",0.627906976744186
+"('Aphelios', 'Swain')",0.4375
+"('Lulu', 'Swain')",0.7058823529411765
+"('Aphelios', 'Kayle')",0.47368421052631576
+"('Sylas', 'Vi')",0.5
+"('Taliyah', 'Vi')",0.4594594594594595
+"('Gnar', 'Vi')",0.36585365853658536
+"('Vi', 'Zeri')",0.5081967213114754
+"('Renata Glasc', 'Vi')",0.4489795918367347
+"('Sejuani', 'Trundle')",0.4583333333333333
+"('Ornn', 'Vi')",0.5555555555555556
+"('Azir', 'Vi')",0.4888888888888889
+"('Kalista', 'Vi')",0.5161290322580645
+"('Azir', 'Seraphine')",0.4117647058823529
+"('Kalista', 'Trundle')",0.4583333333333333
+"('Kalista', 'Sejuani')",0.35714285714285715
+"('Swain', 'Zeri')",0.6071428571428571
+"('Seraphine', 'Swain')",0.7619047619047619
+"('Taliyah', 'Zeri')",0.4533333333333333
+"('Twitch', 'Wukong')",0.5714285714285714
+"('Sejuani', 'Vi')",0.39473684210526316
+"('Akali', 'Sejuani')",0.34615384615384615
+"('Sejuani', 'Zeri')",0.48623853211009177
+"('Sivir', 'Viego')",0.42
+"('Sivir', 'Taliyah')",0.5645161290322581
+"('Aatrox', 'Sejuani')",0.5
+"('Draven', 'Taliyah')",0.55
+"('Sivir', 'Wukong')",0.580952380952381
+"('Renata Glasc', 'Sivir')",0.725
+"('Gangplank', 'Sivir')",0.8235294117647058
+"('Amumu', 'Gnar')",0.45454545454545453
+"('Amumu', 'Viego')",0.43902439024390244
+"('Amumu', 'Kalista')",0.5172413793103449
+"('Aatrox', 'Yuumi')",0.6818181818181818
+"('Aatrox', 'Vi')",0.5172413793103449
+"('Lissandra', 'Yuumi')",0.5806451612903226
+"('Gnar', 'Sejuani')",0.3157894736842105
+"('Draven', 'Sejuani')",0.375
+"('Vi', 'Yuumi')",0.5675675675675675
+"('Swain', 'Yuumi')",0.4444444444444444
+"('Sejuani', 'Swain')",0.3333333333333333
+"('Amumu', 'Gwen')",0.48148148148148145
+"('Poppy', 'Taliyah')",0.5901639344262295
+"('Draven', 'Lissandra')",0.5333333333333333
+"('Leona', 'Sejuani')",0.4375
+"('Lulu', 'Sejuani')",0.4444444444444444
+"('Ashe', 'Wukong')",0.6842105263157895
+"('Fiora', 'Sivir')",0.6470588235294118
+"('Poppy', 'Yone')",0.6666666666666666
+"('Amumu', 'Taliyah')",0.6296296296296297
+"('Amumu', 'Azir')",0.5
+"('Lulu', 'Vi')",0.4
+"('Ashe', 'Taliyah')",0.6666666666666666
+"('Ahri', 'Amumu')",0.25
+"('Amumu', 'Gangplank')",0.5294117647058824
+"('Amumu', 'Lee Sin')",0.3888888888888889
+"('Amumu', 'Poppy')",0.5333333333333333
+"('Poppy', 'Swain')",0.5555555555555556
+"('Nami', 'Poppy')",0.6363636363636364
+"('Draven', 'Pyke')",0.5555555555555556
+"('Amumu', 'Sylas')",0.6896551724137931
+"('Amumu', 'Sejuani')",0.4583333333333333
+"('Jax', 'Poppy')",0.4117647058823529
+"('Poppy', 'Sejuani')",0.4827586206896552
+"('Draven', 'Trundle')",0.3333333333333333
+"('Amumu', 'Draven')",0.4
+"('Jax', 'Sejuani')",0.5333333333333333
+"('Leona', 'Vi')",0.35294117647058826
+"('Draven', 'Poppy')",0.5714285714285714
+"('Draven', 'Vi')",0.3333333333333333
+"('Lee Sin', 'Sivir')",0.5217391304347826
+"('Lissandra', 'Sivir')",0.4
+"('Sivir', 'Trundle')",0.5357142857142857
+"('Sivir', 'Sylas')",0.7230769230769231
+"('Ornn', 'Sivir')",0.5238095238095238
+"('Sivir', 'Swain')",0.6666666666666666
+"('Jax', 'Sivir')",0.56
+"('Nautilus', 'Sivir')",0.6153846153846154
+"('Rakan', 'Sivir')",0.52
+"('Azir', 'Sivir')",0.5555555555555556
+"('Leona', 'Sivir')",0.5757575757575758
+"('Aatrox', 'Sivir')",0.46153846153846156
+"('Sivir', 'Skarner')",0.75
+"('Galio', 'Sivir')",0.6111111111111112
+"('Sivir', 'Vi')",0.5211267605633803
+"('Lulu', 'Sivir')",0.5
+"('Sejuani', 'Sivir')",0.52
+"('Gragas', 'Sivir')",0.625
+"('Renekton', 'Wukong')",0.5111111111111111
+"('Renekton', 'Vi')",0.5909090909090909
+"('Nilah', 'Yuumi')",0.47058823529411764
+"('Jarvan IV', 'Sivir')",0.47058823529411764
